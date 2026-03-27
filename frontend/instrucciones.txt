@@ -1,0 +1,4 @@
+en 3 terminales diferentes:
+ollama run phi3
+node server.js
+npm run dev
